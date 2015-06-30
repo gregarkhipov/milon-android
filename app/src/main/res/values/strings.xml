@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Milon Hapashut</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Type a word to search</string>
+    <string name="button_search">Search</string>
+    <string name="word_not_found">Word has not been found</string>
+</resources>
