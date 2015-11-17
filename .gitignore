@@ -1,3 +1,9 @@
-build/*
-app/build/*
-local.properties
+/local_files
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+/app/app.iml
+/.idea
+/*.iml
